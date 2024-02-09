@@ -1,1 +1,9 @@
+# Site settings
+title: shawndinneen.github.io
+author:
+  name: Shawn Dinneen
+  email: shawndinneen@u.boisestate.edu
+description: "Projects that I have worked on"
 
+# Build settings
+theme: jekyll-theme-minimal
